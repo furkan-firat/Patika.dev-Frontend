@@ -1,0 +1,22 @@
+body{
+background-color: #e9ecef;
+background-image: url("https://www.transparenttextures.com/patterns/bright-squares.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+.navbar {
+  background-color: #ffea63;
+  background-image: url("https://www.transparenttextures.com/patterns/binding-dark.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+.bullet-center{
+    list-style-position: inside;
+}
+
+.text-purple{
+    color: #8749C5;
+}
+
+.column-wrapper {
+    padding: 15px;
+  }

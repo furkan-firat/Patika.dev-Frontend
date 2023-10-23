@@ -1,0 +1,41 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.txt-red {
+  color: #d82400;
+}
+
+.txt-purple {
+  color: #6f27f0;
+}
+
+.txt-yellow {
+  color: #cb901d;
+}
+
+.container {
+  text-align: center;
+}
+
+.bullets-inside {
+  list-style-position: inside;
+}
+
+.no-bullets {
+  list-style: none;
+}
+
+.nav {
+  display: flex;
+  justify-content: center;
+}
+
+ul.nav li {
+  margin-right: 20px;
+}
+
+.img-fix {
+  width: 300px;
+  height: 300px;
+}
