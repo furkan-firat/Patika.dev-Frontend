@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.dark {
+  background-color: #242424;
+  color: #fff;
+  height: 100vh;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
