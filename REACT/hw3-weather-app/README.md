@@ -1,6 +1,7 @@
 # React Weather App
 ----
-![Alt Text](/src/assets/wa.png)
+![Alt Text](wa.png)
+
 
 >This weather application provides you with the current weather conditions as well as the details about the weather within the next 7 days. (Context Api Practiced.)
 
