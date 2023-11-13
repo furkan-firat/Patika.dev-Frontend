@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url("./assets/sky2.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.bg-custom {
+  background-color: #242424;
+}
+
+.round-left {
+  border-radius: 10px 0 0 10px;
+  padding: 10px;
+}
+.round-right {
+  border-radius: 0 10px 10px 0;
+  padding: 10px;
+}
+
+.error-container {
+  text-align: center;
+  margin: 50px auto;
+  padding: 20px;
+  max-width: 400px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.error-image {
+  margin-top: 20px;
+  max-width: 100%;
+  height: auto;
+}
+
+.icon-larger {
+  font-size: 1.5em;
+}
+
+.today-icon {
+  width: 128px;
+  height: 128px;
+}
+
+.nextweek-icon {
+  width: 64px;
+  height: 64px;
+}
+
+.w400 {
+  width: 100px;
+}
