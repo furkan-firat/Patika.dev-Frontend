@@ -2,6 +2,7 @@ import { createContext, useState, useEffect, useContext } from "react";
 import CityContext from "./CityContext";
 import axios from "axios";
 import Error from "../components/Error";
+import Today from "../components/Today";
 const WeatherContext = createContext();
 
 export const WeatherProvider = ({ children }) => {
