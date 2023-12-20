@@ -8,6 +8,7 @@ A simple contact app developed using React. You can add a contact and filter it 
 
 In the project directory, you can run:
 
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\

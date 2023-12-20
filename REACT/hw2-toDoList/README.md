@@ -10,6 +10,7 @@ A simple ToDo App developed using React. You can display, add, filter and delte 
 
 In the project directory, you can run:
 
+### `npm install`
 ### `npm run dev`
 
 Runs the app in the development mode.\
