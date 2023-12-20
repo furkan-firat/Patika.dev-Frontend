@@ -2,4 +2,4 @@
 CSS Practiced.
 
 ---
-![Index Page](/CSS/CSS-hw2/index.png "Code with errors")
+![Index Page](/CSS/CSS-hw2/index.png "Index Page")

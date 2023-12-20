@@ -3,10 +3,10 @@ An online music shop designed using only css. This shop will be updated using bo
 
 ---
 ### Index Page:
-![Index Page](/CSS/CSS-hw1/index.png "Code with errors")
+![Index Page](/CSS/CSS-hw1/index.png "Index Page")
 
 ### Product Page:
-![Product Page](/CSS/CSS-hw1/products.png "Fixed Code")
+![Product Page](/CSS/CSS-hw1/products.png "Product Page")
 
 ### About Page:
-![About Page](/CSS/CSS-hw1/about.png "Fixed Code")
+![About Page](/CSS/CSS-hw1/about.png "About Page")
